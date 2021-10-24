@@ -1,4 +1,4 @@
 # LeetCode-70
-##　Climbing Stairs
+##  Climbing Stairs
 
 https://leetcode.com/problems/climbing-stairs/
